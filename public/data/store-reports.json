@@ -1,0 +1,1437 @@
+{"d": {
+  "results": [
+    {
+      "__metadata": {
+        "id": "4f624f8f-39f1-471f-9522-606479663376",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:3FFDD7A7-2D57-4126-B99E-A6DA33FBA500@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 244790,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "183",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "October Sales Figures",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-20T15:42:33",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "183",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-20T16:03:43",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-20T15:42:33",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2\"",
+          "vti_x005f_timelastwritten": "2018-03-20T15:42:33",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "244790",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "StoreReport02.pdf",
+        "ServerRelativeUrl": "/storereports/StoreReport02.pdf",
+        "TimeCreated": "2018-03-20T15:42:33Z",
+        "TimeLastModified": "2018-03-20T16:03:43Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "3ffdd7a7-2d57-4126-b99e-a6da33fba500"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "October Sales Figures",
+      "ID": 1,
+      "Created": "2018-03-20T15:42:32Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-20T16:03:43Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "42c64a23-c69b-45a1-80db-d2010cfacda1"
+    },
+    {
+      "__metadata": {
+        "id": "b754a7a6-5962-401b-9ff0-db2712317a38",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{727D1E7A-9C7F-4FDB-A190-957AFB4D1580}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:727D1E7A-9C7F-4FDB-A190-957AFB4D1580@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 280390,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "195",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "Outlet Performance",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-20T15:42:33",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "195",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-20T16:03:49",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-20T15:42:33",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2\"",
+          "vti_x005f_timelastwritten": "2018-03-20T15:42:33",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "280390",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "StoreReport03.pdf",
+        "ServerRelativeUrl": "/storereports/StoreReport03.pdf",
+        "TimeCreated": "2018-03-20T15:42:33Z",
+        "TimeLastModified": "2018-03-20T16:03:49Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "727d1e7a-9c7f-4fdb-a190-957afb4d1580"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "Outlet Performance",
+      "ID": 2,
+      "Created": "2018-03-20T15:42:33Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-20T16:03:49Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "cf29abc3-15c0-4bbe-b723-e95dcc185270"
+    },
+    {
+      "__metadata": {
+        "id": "76f92fa6-f3f8-4472-8b9b-4c7735cf2e06",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{D4C5C0BF-513F-4E74-84E3-A8BECB044B53}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:D4C5C0BF-513F-4E74-84E3-A8BECB044B53@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 139998,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "168",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "General Report",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-20T15:42:34",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "168",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-20T16:03:38",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-20T15:42:34",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2\"",
+          "vti_x005f_timelastwritten": "2018-03-20T15:42:34",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "139998",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "StoreReport01.pdf",
+        "ServerRelativeUrl": "/storereports/StoreReport01.pdf",
+        "TimeCreated": "2018-03-20T15:42:34Z",
+        "TimeLastModified": "2018-03-20T16:03:38Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "d4c5c0bf-513f-4e74-84e3-a8becb044b53"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "General Report",
+      "ID": 3,
+      "Created": "2018-03-20T15:42:33Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-20T16:03:38Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "bfb3ac2e-df17-4df9-a02b-a875b5ecba4d"
+    },
+    {
+      "__metadata": {
+        "id": "4836592d-d073-4819-968d-22a4c4f40b46",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:DFC89550-28A4-4BE3-9E4E-323FD42E8BA1@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 4549647,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "888",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "The 306",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-25T17:06:18",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "888",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-25T17:12:40",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-25T17:06:18",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2\"",
+          "vti_x005f_timelastwritten": "2018-03-25T17:06:18",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "4549647",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "TA00306.PDF",
+        "ServerRelativeUrl": "/storereports/TA00306.PDF",
+        "TimeCreated": "2018-03-25T17:06:18Z",
+        "TimeLastModified": "2018-03-25T17:12:40Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "dfc89550-28a4-4be3-9e4e-323fd42e8ba1"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 4,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "The 306",
+      "ID": 4,
+      "Created": "2018-03-25T17:06:18Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T17:12:39Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "651ce4d5-2499-4ac4-8636-be0bcb837def"
+    },
+    {
+      "__metadata": {
+        "id": "94f7f913-7d6d-490a-948d-e27fb6f2ea34",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{32F1EB89-AA66-4150-B382-EE258F613E84}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:32F1EB89-AA66-4150-B382-EE258F613E84@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 1083796,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "330",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "Customer Dashboard",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-25T17:06:19",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{32F1EB89-AA66-4150-B382-EE258F613E84},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "330",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-25T17:12:43",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-25T17:06:19",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{32F1EB89-AA66-4150-B382-EE258F613E84},2\"",
+          "vti_x005f_timelastwritten": "2018-03-25T17:06:19",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{32F1EB89-AA66-4150-B382-EE258F613E84},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{32F1EB89-AA66-4150-B382-EE258F613E84},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "1083796",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Customer Dashboard.pdf",
+        "ServerRelativeUrl": "/storereports/Customer Dashboard.pdf",
+        "TimeCreated": "2018-03-25T17:06:19Z",
+        "TimeLastModified": "2018-03-25T17:12:43Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "32f1eb89-aa66-4150-b382-ee258f613e84"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 5,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "Customer Dashboard",
+      "ID": 5,
+      "Created": "2018-03-25T17:06:19Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T17:12:43Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "9110f534-2334-47d9-b931-c81506d5373e"
+    },
+    {
+      "__metadata": {
+        "id": "2de29050-869a-4a70-9394-e784ff2ed182",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 472154,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "216",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "Navigating the 306",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-25T17:06:19",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "216",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-25T17:12:51",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-25T17:06:19",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2\"",
+          "vti_x005f_timelastwritten": "2018-03-25T17:06:19",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "472154",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Navigating the 306 Report.pdf",
+        "ServerRelativeUrl": "/storereports/Navigating the 306 Report.pdf",
+        "TimeCreated": "2018-03-25T17:06:19Z",
+        "TimeLastModified": "2018-03-25T17:12:51Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "ece88ab8-cd9d-4c19-a9ff-3401ab8cdc19"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 6,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "Navigating the 306",
+      "ID": 6,
+      "Created": "2018-03-25T17:06:20Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T17:12:50Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "77b9a0e1-e281-4d2b-b097-66c4f3c22821"
+    },
+    {
+      "__metadata": {
+        "id": "7bf36725-e07b-4489-a3cb-5a245711417f",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{2C8EF31E-D801-481B-81E6-3E5C9D87262D}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:2C8EF31E-D801-481B-81E6-3E5C9D87262D@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 445093,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "219",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "Q1 2018",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-25T17:06:19",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "219",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-25T17:12:58",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-25T17:06:19",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2\"",
+          "vti_x005f_timelastwritten": "2018-03-25T17:06:19",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "445093",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Q1 2018 Store TCC Goals.pdf",
+        "ServerRelativeUrl": "/storereports/Q1 2018 Store TCC Goals.pdf",
+        "TimeCreated": "2018-03-25T17:06:19Z",
+        "TimeLastModified": "2018-03-25T17:12:58Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "2c8ef31e-d801-481b-81e6-3e5c9d87262d"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 7,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "Q1 2018",
+      "ID": 7,
+      "Created": "2018-03-25T17:06:20Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T17:12:58Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "92a273da-6686-47ec-a0e5-6e2cf803651a"
+    },
+    {
+      "__metadata": {
+        "id": "eb596fb4-f1c1-4b70-b130-5beab25d02ac",
+        "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)",
+        "etag": "\"2\"",
+        "type": "SP.Data.StorereportsItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File",
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__metadata": {
+            "id": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Properties",
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Properties",
+            "type": "SP.PropertyValues"
+          },
+          "vti_x005f_metadatanextbsn": "100",
+          "vti_x005f_replid": "rid:{8E83B4A3-2919-4943-83CF-670D87E5228B}",
+          "vti_x005f_level": 1,
+          "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+          "vti_x005f_setuppathversion": 16,
+          "vti_x005f_rtag": "rt:8E83B4A3-2919-4943-83CF-670D87E5228B@00000000002",
+          "vti_x005f_sourcecontrolversion": "V2.0",
+          "vti_x005f_sourcecontrolcookie": "fp_internal",
+          "vti_x005f_filesize": 930249,
+          "vti_x005f_modifiedby": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_docstoretype": 0,
+          "vti_x005f_internalversion": 513,
+          "vti_x005f_nextbsn": "300",
+          "vti_x005f_parserversion": "16.0.0.4534",
+          "vti_x005f_docstoreversion": 2,
+          "documentname": "2018 DFS",
+          "vti_x005f_author": "i:0#.w|talbots\\ss6sxm",
+          "vti_x005f_foldersubfolderitemcount": 0,
+          "vti_x005f_contentversionisdirty": "false",
+          "vti_x005f_timecreated": "2018-03-25T17:06:20",
+          "vti_x005f_metainfoversion": 2,
+          "vti_x005f_contenttag": "{8E83B4A3-2919-4943-83CF-670D87E5228B},2,1",
+          "vti_x005f_canmaybeedit": "true",
+          "vti_x005f_nextbsnallocated": "300",
+          "vti_x005f_folderitemcount": 0,
+          "vti_x005f_timelastmodified": "2018-03-25T17:13:04",
+          "vti_x005f_parentid": "{0550E209-B8D5-40EC-98CA-F99640A0E755}",
+          "vti_x005f_candeleteversion": "true",
+          "vti_x005f_nexttolasttimemodified": "2018-03-25T17:06:20",
+          "vti_x005f_contentversion": 1,
+          "vti_x005f_etag": "\"{8E83B4A3-2919-4943-83CF-670D87E5228B},2\"",
+          "vti_x005f_timelastwritten": "2018-03-25T17:06:20",
+          "vti_x005f_streamschema": 66
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{8E83B4A3-2919-4943-83CF-670D87E5228B},2,1",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{8E83B4A3-2919-4943-83CF-670D87E5228B},2\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "930249",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "2018 DFS Report.pdf",
+        "ServerRelativeUrl": "/storereports/2018 DFS Report.pdf",
+        "TimeCreated": "2018-03-25T17:06:20Z",
+        "TimeLastModified": "2018-03-25T17:13:04Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "8e83b4a3-2919-4943-83cf-670d87e5228b"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 8,
+      "ContentTypeId": "0x0101000DFF6541D60FE741AFB57C720AC199FE",
+      "Title": null,
+      "documentname": "2018 DFS",
+      "ID": 8,
+      "Created": "2018-03-25T17:06:20Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T17:13:04Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "b2dfbac8-1f77-4de6-823a-7e0cd22db081"
+    }
+  ]
+}
+}

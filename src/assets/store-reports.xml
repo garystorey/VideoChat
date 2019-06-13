@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xml:base="https://vsv.talbots.com/_api/">
+<id>ef87014f-9000-4712-9339-e01208ff21bb</id>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<entry m:etag="&quot;2&quot;">
+    <id>d4344c19-7212-4799-8436-230b33e36c57</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:3FFDD7A7-2D57-4126-B99E-A6DA33FBA500@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">244790</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>183</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>October Sales Figures</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>183</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-20T16:03:43</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{3FFDD7A7-2D57-4126-B99E-A6DA33FBA500},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">244790</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>StoreReport02.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/StoreReport02.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-20T15:42:33Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-20T16:03:43Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">3ffdd7a7-2d57-4126-b99e-a6da33fba500</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(1)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">1</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>October Sales Figures</d:documentname>
+    <d:ID m:type="Edm.Int32">1</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-20T15:42:32Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-20T16:03:43Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">42c64a23-c69b-45a1-80db-d2010cfacda1</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>864f4b24-3c9d-4a81-ba96-61ec2af6f967</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{727D1E7A-9C7F-4FDB-A190-957AFB4D1580}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:727D1E7A-9C7F-4FDB-A190-957AFB4D1580@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">280390</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>195</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>Outlet Performance</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>195</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-20T16:03:49</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-20T15:42:33</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{727D1E7A-9C7F-4FDB-A190-957AFB4D1580},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">280390</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>StoreReport03.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/StoreReport03.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-20T15:42:33Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-20T16:03:49Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">727d1e7a-9c7f-4fdb-a190-957afb4d1580</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(2)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">2</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>Outlet Performance</d:documentname>
+    <d:ID m:type="Edm.Int32">2</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-20T15:42:33Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-20T16:03:49Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">cf29abc3-15c0-4bbe-b723-e95dcc185270</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>337a842c-5485-4672-9f58-9e113e318796</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{D4C5C0BF-513F-4E74-84E3-A8BECB044B53}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:D4C5C0BF-513F-4E74-84E3-A8BECB044B53@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">139998</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>168</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>General Report</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-20T15:42:34</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>168</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-20T16:03:38</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-20T15:42:34</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-20T15:42:34</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{D4C5C0BF-513F-4E74-84E3-A8BECB044B53},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">139998</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>StoreReport01.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/StoreReport01.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-20T15:42:34Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-20T16:03:38Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">d4c5c0bf-513f-4e74-84e3-a8becb044b53</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(3)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">3</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>General Report</d:documentname>
+    <d:ID m:type="Edm.Int32">3</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-20T15:42:33Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-20T16:03:38Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">bfb3ac2e-df17-4df9-a02b-a875b5ecba4d</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>e4926f4b-2427-4e9e-bed7-949fdc687c48</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:DFC89550-28A4-4BE3-9E4E-323FD42E8BA1@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">4549647</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>888</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>The 306</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-25T17:06:18</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>888</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-25T17:12:40</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-25T17:06:18</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-25T17:06:18</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{DFC89550-28A4-4BE3-9E4E-323FD42E8BA1},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">4549647</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>TA00306.PDF</d:Name>
+        <d:ServerRelativeUrl>/storereports/TA00306.PDF</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-25T17:06:18Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-25T17:12:40Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">dfc89550-28a4-4be3-9e4e-323fd42e8ba1</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(4)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">4</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>The 306</d:documentname>
+    <d:ID m:type="Edm.Int32">4</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-25T17:06:18Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-25T17:12:39Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">651ce4d5-2499-4ac4-8636-be0bcb837def</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>563f0173-a24d-4caf-b173-724ab55aa207</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{32F1EB89-AA66-4150-B382-EE258F613E84}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:32F1EB89-AA66-4150-B382-EE258F613E84@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">1083796</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>330</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>Customer Dashboard</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{32F1EB89-AA66-4150-B382-EE258F613E84},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>330</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-25T17:12:43</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{32F1EB89-AA66-4150-B382-EE258F613E84},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{32F1EB89-AA66-4150-B382-EE258F613E84},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{32F1EB89-AA66-4150-B382-EE258F613E84},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">1083796</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>Customer Dashboard.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/Customer Dashboard.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-25T17:06:19Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-25T17:12:43Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">32f1eb89-aa66-4150-b382-ee258f613e84</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(5)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">5</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>Customer Dashboard</d:documentname>
+    <d:ID m:type="Edm.Int32">5</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-25T17:06:19Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-25T17:12:43Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">9110f534-2334-47d9-b931-c81506d5373e</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>f820f298-a155-4362-b295-5ba0c2782381</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">472154</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>216</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>Navigating the 306</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>216</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-25T17:12:51</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{ECE88AB8-CD9D-4C19-A9FF-3401AB8CDC19},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">472154</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>Navigating the 306 Report.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/Navigating the 306 Report.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-25T17:06:19Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-25T17:12:51Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">ece88ab8-cd9d-4c19-a9ff-3401ab8cdc19</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(6)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">6</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>Navigating the 306</d:documentname>
+    <d:ID m:type="Edm.Int32">6</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-25T17:06:20Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-25T17:12:50Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">77b9a0e1-e281-4d2b-b097-66c4f3c22821</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>0f6e7a0f-352c-49ac-9619-6cb50b352c84</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{2C8EF31E-D801-481B-81E6-3E5C9D87262D}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:2C8EF31E-D801-481B-81E6-3E5C9D87262D@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">445093</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>219</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>Q1 2018</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>219</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-25T17:12:58</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-25T17:06:19</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{2C8EF31E-D801-481B-81E6-3E5C9D87262D},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">445093</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>Q1 2018 Store TCC Goals.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/Q1 2018 Store TCC Goals.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-25T17:06:19Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-25T17:12:58Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">2c8ef31e-d801-481b-81e6-3e5c9d87262d</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(7)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">7</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>Q1 2018</d:documentname>
+    <d:ID m:type="Edm.Int32">7</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-25T17:06:20Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-25T17:12:58Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">92a273da-6686-47ec-a0e5-6e2cf803651a</d:GUID>
+</m:properties>
+</content>
+</entry>
+<entry m:etag="&quot;2&quot;">
+    <id>7c5cd195-dc4a-4a69-96ee-2d68bda06c3d</id>
+    <category term="SP.Data.StorereportsItem" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FirstUniqueAncestorSecurableObject" type="application/atom+xml;type=entry" title="FirstUniqueAncestorSecurableObject" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FirstUniqueAncestorSecurableObject"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/RoleAssignments" type="application/atom+xml;type=feed" title="RoleAssignments" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/RoleAssignments"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/AttachmentFiles" type="application/atom+xml;type=feed" title="AttachmentFiles" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/AttachmentFiles"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ContentType" type="application/atom+xml;type=entry" title="ContentType" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/ContentType"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/GetDlpPolicyTip" type="application/atom+xml;type=entry" title="GetDlpPolicyTip" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/GetDlpPolicyTip"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsHtml" type="application/atom+xml;type=entry" title="FieldValuesAsHtml" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesAsHtml"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesAsText" type="application/atom+xml;type=entry" title="FieldValuesAsText" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesAsText"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/FieldValuesForEdit" type="application/atom+xml;type=entry" title="FieldValuesForEdit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/FieldValuesForEdit"/>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/File" type="application/atom+xml;type=entry" title="File" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File">
+    <m:inline>
+        <entry>
+            <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File</id>
+            <category term="SP.File" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+            <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Author" type="application/atom+xml;type=entry" title="Author" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Author"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/CheckedOutByUser" type="application/atom+xml;type=entry" title="CheckedOutByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/CheckedOutByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/EffectiveInformationRightsManagementSettings" type="application/atom+xml;type=entry" title="EffectiveInformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/EffectiveInformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/InformationRightsManagementSettings" type="application/atom+xml;type=entry" title="InformationRightsManagementSettings" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/InformationRightsManagementSettings"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ListItemAllFields" type="application/atom+xml;type=entry" title="ListItemAllFields" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/ListItemAllFields"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/LockedByUser" type="application/atom+xml;type=entry" title="LockedByUser" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/LockedByUser"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ModifiedBy" type="application/atom+xml;type=entry" title="ModifiedBy" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/ModifiedBy"/>
+            <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Properties" type="application/atom+xml;type=entry" title="Properties" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Properties">
+            <m:inline>
+                <entry>
+                    <id>https://vsv.talbots.com/_api/Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Properties</id>
+                    <category term="SP.PropertyValues" scheme="http://schemas.microsoft.com/ado/2007/08/dataservices/scheme"/>
+                    <link rel="edit" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Properties"/>
+                    <title/>
+                    <updated>2018-03-26T19:32:10Z</updated>
+                    <author>
+                        <name/>
+                    </author>
+                    <content type="application/xml">
+                    <m:properties>
+                        <d:vti_x005f_metadatanextbsn>100</d:vti_x005f_metadatanextbsn>
+                        <d:vti_x005f_replid>rid:{8E83B4A3-2919-4943-83CF-670D87E5228B}</d:vti_x005f_replid>
+                        <d:vti_x005f_level m:type="Edm.Int32">1</d:vti_x005f_level>
+                        <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+                        <d:vti_x005f_setuppathversion m:type="Edm.Int32">16</d:vti_x005f_setuppathversion>
+                        <d:vti_x005f_rtag>rt:8E83B4A3-2919-4943-83CF-670D87E5228B@00000000002</d:vti_x005f_rtag>
+                        <d:vti_x005f_sourcecontrolversion>V2.0</d:vti_x005f_sourcecontrolversion>
+                        <d:vti_x005f_sourcecontrolcookie>fp_internal</d:vti_x005f_sourcecontrolcookie>
+                        <d:vti_x005f_filesize m:type="Edm.Int32">930249</d:vti_x005f_filesize>
+                        <d:vti_x005f_modifiedby>i:0#.w|talbots\ss6sxm</d:vti_x005f_modifiedby>
+                        <d:vti_x005f_docstoretype m:type="Edm.Int32">0</d:vti_x005f_docstoretype>
+                        <d:vti_x005f_internalversion m:type="Edm.Int32">513</d:vti_x005f_internalversion>
+                        <d:vti_x005f_nextbsn>300</d:vti_x005f_nextbsn>
+                        <d:vti_x005f_parserversion>16.0.0.4534</d:vti_x005f_parserversion>
+                        <d:vti_x005f_docstoreversion m:type="Edm.Int32">2</d:vti_x005f_docstoreversion>
+                        <d:documentname>2018 DFS</d:documentname>
+                        <d:vti_x005f_author>i:0#.w|talbots\ss6sxm</d:vti_x005f_author>
+                        <d:vti_x005f_foldersubfolderitemcount m:type="Edm.Int32">0</d:vti_x005f_foldersubfolderitemcount>
+                        <d:vti_x005f_contentversionisdirty>false</d:vti_x005f_contentversionisdirty>
+                        <d:vti_x005f_timecreated m:type="Edm.DateTime">2018-03-25T17:06:20</d:vti_x005f_timecreated>
+                        <d:vti_x005f_metainfoversion m:type="Edm.Int32">2</d:vti_x005f_metainfoversion>
+                        <d:vti_x005f_contenttag>{8E83B4A3-2919-4943-83CF-670D87E5228B},2,1</d:vti_x005f_contenttag>
+                        <d:vti_x005f_canmaybeedit>true</d:vti_x005f_canmaybeedit>
+                        <d:vti_x005f_nextbsnallocated>300</d:vti_x005f_nextbsnallocated>
+                        <d:vti_x005f_folderitemcount m:type="Edm.Int32">0</d:vti_x005f_folderitemcount>
+                        <d:vti_x005f_timelastmodified m:type="Edm.DateTime">2018-03-25T17:13:04</d:vti_x005f_timelastmodified>
+                        <d:vti_x005f_parentid>{0550E209-B8D5-40EC-98CA-F99640A0E755}</d:vti_x005f_parentid>
+                        <d:vti_x005f_candeleteversion>true</d:vti_x005f_candeleteversion>
+                        <d:vti_x005f_nexttolasttimemodified m:type="Edm.DateTime">2018-03-25T17:06:20</d:vti_x005f_nexttolasttimemodified>
+                        <d:vti_x005f_contentversion m:type="Edm.Int32">1</d:vti_x005f_contentversion>
+                        <d:vti_x005f_etag>"{8E83B4A3-2919-4943-83CF-670D87E5228B},2"</d:vti_x005f_etag>
+                        <d:vti_x005f_timelastwritten m:type="Edm.DateTime">2018-03-25T17:06:20</d:vti_x005f_timelastwritten>
+                        <d:vti_x005f_streamschema m:type="Edm.Int32">66</d:vti_x005f_streamschema>
+                    </m:properties>
+                </content>
+            </entry>
+        </m:inline>
+    </link>
+    <link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Versions" type="application/atom+xml;type=feed" title="Versions" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/File/Versions"/>
+    <title/>
+    <updated>2018-03-26T19:32:10Z</updated>
+    <author>
+        <name/>
+    </author>
+    <content type="application/xml">
+    <m:properties>
+        <d:CheckInComment/>
+        <d:CheckOutType m:type="Edm.Int32">2</d:CheckOutType>
+        <d:ContentTag>{8E83B4A3-2919-4943-83CF-670D87E5228B},2,1</d:ContentTag>
+        <d:CustomizedPageStatus m:type="Edm.Int32">0</d:CustomizedPageStatus>
+        <d:ETag>"{8E83B4A3-2919-4943-83CF-670D87E5228B},2"</d:ETag>
+        <d:Exists m:type="Edm.Boolean">true</d:Exists>
+        <d:IrmEnabled m:type="Edm.Boolean">false</d:IrmEnabled>
+        <d:Length m:type="Edm.Int64">930249</d:Length>
+        <d:Level m:type="Edm.Byte">1</d:Level>
+        <d:LinkingUrl/>
+        <d:MajorVersion m:type="Edm.Int32">2</d:MajorVersion>
+        <d:MinorVersion m:type="Edm.Int32">0</d:MinorVersion>
+        <d:Name>2018 DFS Report.pdf</d:Name>
+        <d:ServerRelativeUrl>/storereports/2018 DFS Report.pdf</d:ServerRelativeUrl>
+        <d:TimeCreated m:type="Edm.DateTime">2018-03-25T17:06:20Z</d:TimeCreated>
+        <d:TimeLastModified m:type="Edm.DateTime">2018-03-25T17:13:04Z</d:TimeLastModified>
+        <d:Title m:null="true"/>
+        <d:UIVersion m:type="Edm.Int32">1024</d:UIVersion>
+        <d:UIVersionLabel>2.0</d:UIVersionLabel>
+        <d:UniqueId m:type="Edm.Guid">8e83b4a3-2919-4943-83cf-670d87e5228b</d:UniqueId>
+    </m:properties>
+</content>
+</entry>
+</m:inline>
+</link>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/Folder" type="application/atom+xml;type=entry" title="Folder" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/Folder"/>
+<link rel="http://schemas.microsoft.com/ado/2007/08/dataservices/related/ParentList" type="application/atom+xml;type=entry" title="ParentList" href="Web/Lists(guid'827d5333-36e5-4ec0-8c20-ca6dd7dec7d7')/Items(8)/ParentList"/>
+<title/>
+<updated>2018-03-26T19:32:10Z</updated>
+<author>
+    <name/>
+</author>
+<content type="application/xml">
+<m:properties>
+    <d:FileSystemObjectType m:type="Edm.Int32">0</d:FileSystemObjectType>
+    <d:Id m:type="Edm.Int32">8</d:Id>
+    <d:ContentTypeId>0x0101000DFF6541D60FE741AFB57C720AC199FE</d:ContentTypeId>
+    <d:Title m:null="true"/>
+    <d:documentname>2018 DFS</d:documentname>
+    <d:ID m:type="Edm.Int32">8</d:ID>
+    <d:Created m:type="Edm.DateTime">2018-03-25T17:06:20Z</d:Created>
+    <d:AuthorId m:type="Edm.Int32">1</d:AuthorId>
+    <d:Modified m:type="Edm.DateTime">2018-03-25T17:13:04Z</d:Modified>
+    <d:EditorId m:type="Edm.Int32">1</d:EditorId>
+    <d:OData__CopySource m:null="true"/>
+    <d:CheckoutUserId m:null="true"/>
+    <d:OData__UIVersionString>2.0</d:OData__UIVersionString>
+    <d:GUID m:type="Edm.Guid">b2dfbac8-1f77-4de6-823a-7e0cd22db081</d:GUID>
+</m:properties>
+</content>
+</entry>
+</feed>

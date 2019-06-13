@@ -1,0 +1,428 @@
+{"d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "bfe15093-cb14-49cc-9c0f-0afd49cc190b",
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)",
+          "etag": "\"3\"",
+          "type": "SP.Data.NotesListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/FirstUniqueAncestorSecurableObject"
+          }
+        },
+        "RoleAssignments": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/RoleAssignments"
+          }
+        },
+        "AttachmentFiles": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/AttachmentFiles"
+          }
+        },
+        "ContentType": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/ContentType"
+          }
+        },
+        "GetDlpPolicyTip": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/GetDlpPolicyTip"
+          }
+        },
+        "FieldValuesAsHtml": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/FieldValuesAsHtml"
+          }
+        },
+        "FieldValuesAsText": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/FieldValuesAsText"
+          }
+        },
+        "FieldValuesForEdit": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/FieldValuesForEdit"
+          }
+        },
+        "File": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/File"
+          }
+        },
+        "Folder": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/Folder"
+          }
+        },
+        "ParentList": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(2)/ParentList"
+          }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 2,
+        "ContentTypeId": "0x0100F21921FA1D924F4A8C186327DBA318C7",
+        "Title": "3.19.2018 This has a Title",
+        "Notes": "<div class=\"ExternalClassADA648B63A994E1EA42CCBD6817B2A5B\"><h2>I wrote an even bigger note​<br></h2><p>​the biggest note you ever did see<br></p><p><br></p></div>",
+        "VSVTags": {
+          "__metadata": {
+            "type": "Collection(Edm.String)"
+          },
+          "results": [
+            "Customers",
+            "Sales"
+          ]
+        },
+        "ID": 2,
+        "Modified": "2018-05-01T17:10:50Z",
+        "Created": "2018-05-01T16:54:16Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "69f359fe-4639-4e5c-b5d5-7ddb3c14f63d"
+      },
+      {
+        "__metadata": {
+          "id": "47a8b04f-bde1-4ad0-91ff-4d3b416fb933",
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)",
+          "etag": "\"2\"",
+          "type": "SP.Data.NotesListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/FirstUniqueAncestorSecurableObject"
+          }
+        },
+        "RoleAssignments": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/RoleAssignments"
+          }
+        },
+        "AttachmentFiles": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/AttachmentFiles"
+          }
+        },
+        "ContentType": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/ContentType"
+          }
+        },
+        "GetDlpPolicyTip": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/GetDlpPolicyTip"
+          }
+        },
+        "FieldValuesAsHtml": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/FieldValuesAsHtml"
+          }
+        },
+        "FieldValuesAsText": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/FieldValuesAsText"
+          }
+        },
+        "FieldValuesForEdit": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/FieldValuesForEdit"
+          }
+        },
+        "File": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/File"
+          }
+        },
+        "Folder": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/Folder"
+          }
+        },
+        "ParentList": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(3)/ParentList"
+          }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 3,
+        "ContentTypeId": "0x0100F21921FA1D924F4A8C186327DBA318C7",
+        "Title": "Talbots Note No Date",
+        "Notes": "<div class=\"ExternalClass827D1F62AE8C4FB3A3DA9DA16CBC7F2F\"><h1><strong>Alderaan? I'm not going to Alderaan. I've got to go home. It's late, I'm in for it as it is.</strong></h1><p>Don't underestimate the Force. As you wish. I'm surprised you had the courage to take the responsibility yourself. Your eyes can deceive you. Don't trust them.</p><p>I care. So, what do you think of her, Han? Red Five standing by. He is here.&#160;<strong>I call it luck.</strong>&#160;<em>I suggest you try it again, Luke.</em>&#160;This time, let go your conscious self and act on instinct.</p><h2><strong>I have traced the Rebel spies to her. Now she is my only link to finding their secret base.</strong></h2><p>Don't underestimate the Force. What!? Remember, a Jedi can feel the Force flowing through him. Don't underestimate the Force. You don't believe in the Force, do you?</p><ol><li>As you wish.</li><li>I need your help, Luke. She needs your help. I'm getting too old for this sort of thing.</li><li>She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There'll be no one to stop us this time!</li></ol><h3><strong>What?!</strong></h3><p>The plans you refer to will soon be back in our hands. Ye-ha! What?! A tremor in the Force. The last time I felt it was in the presence of my old master. Hey, Luke! May the Force be with you.</p><ul><li>I'm trying not to, kid.</li><li>Red Five standing by.</li><li>Hokey religions and ancient weapons are no match for a good blaster at your side, kid.​<br></li></ul><p>​</p></div>",
+        "VSVTags": {
+          "__metadata": {
+            "type": "Collection(Edm.String)"
+          },
+          "results": [
+            "Displays"
+          ]
+        },
+        "ID": 3,
+        "Modified": "2018-04-13T17:10:54Z",
+        "Created": "2018-03-25T18:58:42Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "7f29eacf-0054-46b5-a6af-57a2a6bdb3ee"
+      },
+      {
+        "__metadata": {
+          "id": "ab736d55-5989-41a4-af57-5969d51c6625",
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)",
+          "etag": "\"2\"",
+          "type": "SP.Data.NotesListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/FirstUniqueAncestorSecurableObject"
+          }
+        },
+        "RoleAssignments": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/RoleAssignments"
+          }
+        },
+        "AttachmentFiles": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/AttachmentFiles"
+          }
+        },
+        "ContentType": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/ContentType"
+          }
+        },
+        "GetDlpPolicyTip": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/GetDlpPolicyTip"
+          }
+        },
+        "FieldValuesAsHtml": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/FieldValuesAsHtml"
+          }
+        },
+        "FieldValuesAsText": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/FieldValuesAsText"
+          }
+        },
+        "FieldValuesForEdit": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/FieldValuesForEdit"
+          }
+        },
+        "File": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/File"
+          }
+        },
+        "Folder": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/Folder"
+          }
+        },
+        "ParentList": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(4)/ParentList"
+          }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 4,
+        "ContentTypeId": "0x0100F21921FA1D924F4A8C186327DBA318C7",
+        "Title": "New",
+        "Notes": null,
+        "VSVTags": {
+          "__metadata": {
+            "type": "Collection(Edm.String)"
+          },
+          "results": [
+            "Displays",
+            "Sales"
+          ]
+        },
+        "ID": 4,
+        "Modified": "2018-04-16T17:06:02Z",
+        "Created": "2018-04-12T17:02:32Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "d1be4d02-0d08-4da9-9095-169bc5147e44"
+      },
+      {
+        "__metadata": {
+          "id": "f54ac366-1daf-4083-9808-f14a6c042f52",
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)",
+          "etag": "\"2\"",
+          "type": "SP.Data.NotesListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/FirstUniqueAncestorSecurableObject"
+          }
+        },
+        "RoleAssignments": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/RoleAssignments"
+          }
+        },
+        "AttachmentFiles": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/AttachmentFiles"
+          }
+        },
+        "ContentType": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/ContentType"
+          }
+        },
+        "GetDlpPolicyTip": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/GetDlpPolicyTip"
+          }
+        },
+        "FieldValuesAsHtml": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/FieldValuesAsHtml"
+          }
+        },
+        "FieldValuesAsText": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/FieldValuesAsText"
+          }
+        },
+        "FieldValuesForEdit": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/FieldValuesForEdit"
+          }
+        },
+        "File": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/File"
+          }
+        },
+        "Folder": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/Folder"
+          }
+        },
+        "ParentList": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(5)/ParentList"
+          }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 5,
+        "ContentTypeId": "0x0100F21921FA1D924F4A8C186327DBA318C7",
+        "Title": "Talbots Test Item",
+        "Notes": null,
+        "VSVTags": {
+          "__metadata": {
+            "type": "Collection(Edm.String)"
+          },
+          "results": [
+            "Customers"
+          ]
+        },
+        "ID": 5,
+        "Modified": "2018-04-16T17:06:06Z",
+        "Created": "2018-04-12T17:04:47Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "ea856cb3-ac6b-4385-bc07-e95620849576"
+      },
+      {
+        "__metadata": {
+          "id": "385a04b3-be06-4126-aead-f9d9c3deef0b",
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)",
+          "etag": "\"2\"",
+          "type": "SP.Data.NotesListItem"
+        },
+        "FirstUniqueAncestorSecurableObject": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/FirstUniqueAncestorSecurableObject"
+          }
+        },
+        "RoleAssignments": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/RoleAssignments"
+          }
+        },
+        "AttachmentFiles": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/AttachmentFiles"
+          }
+        },
+        "ContentType": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/ContentType"
+          }
+        },
+        "GetDlpPolicyTip": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/GetDlpPolicyTip"
+          }
+        },
+        "FieldValuesAsHtml": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/FieldValuesAsHtml"
+          }
+        },
+        "FieldValuesAsText": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/FieldValuesAsText"
+          }
+        },
+        "FieldValuesForEdit": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/FieldValuesForEdit"
+          }
+        },
+        "File": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/File"
+          }
+        },
+        "Folder": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/Folder"
+          }
+        },
+        "ParentList": {
+          "__deferred": {
+            "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists(guid'fbe83049-7ba2-4443-93ca-fc8d9d143d09')/Items(6)/ParentList"
+          }
+        },
+        "FileSystemObjectType": 0,
+        "Id": 6,
+        "ContentTypeId": "0x0100F21921FA1D924F4A8C186327DBA318C7",
+        "Title": "Talbots Test Item 2",
+        "Notes": "<div class=\"ExternalClass81C6D1836C4A49EBA7740A5F9C2AA211\"><h1>This is a test</h1><p>Holy Moly it worked</p></div>",
+        "VSVTags": {
+          "__metadata": {
+            "type": "Collection(Edm.String)"
+          },
+          "results": [
+            "Sales",
+            "Customers"
+          ]
+        },
+        "ID": 6,
+        "Modified": "2018-04-13T17:10:58Z",
+        "Created": "2018-04-12T17:05:45Z",
+        "AuthorId": 1,
+        "EditorId": 1,
+        "OData__UIVersionString": "1.0",
+        "Attachments": false,
+        "GUID": "ecd6b1cb-e475-4bff-a795-27b339dacfcf"
+      }
+    ]
+  }
+}

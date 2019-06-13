@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+:root {
+    --primary: #43a4d4;
+    --secondary: #56B86C;
+    --tertiary: #C52033;
+    --quarternary: #F7C842;
+    --primary-grayscale: #343537;
+    --secondary-grayscale: #55585D;
+    --tertiary-grayscale: #7C8087;
+    --quarternary-grayscale: #B4B8BE;
+    --quinary-grayscale: #CDD0D4;
+    --senary-grayscale: #DDE0E3;
+    --septenary-grayscale: #F5F5F5;
+    --octonary-grayscale: #E8EAEC;
+    --white: #fff;
+    --off-white: #FCFDFD;
+
+    --box-shadow: var(--octonary-grayscale);
+    --border-default: var(--senary-grayscale);
+    --inverse-border: var(--primary);
+
+    --hover-color: var(--tertiary);
+
+    --primary-hover: #327A9E;
+    --secondary-hover: #449356;
+    --tertiary-hover: #9D1928;
+    --inverse-hover: #43A4D4;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--primary-grayscale);
+    font-family: Lato, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 500;
+}
+
+a {
+    color: var(--primary-grayscale);
+    text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: var(--hover-color);
+}
+
+button {
+    background-color: var(--white);
+    transition: all 90ms ease-in;
+}
+
+
+

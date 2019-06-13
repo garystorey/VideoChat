@@ -1,0 +1,32 @@
+.photo--full {
+    display: flex;
+    margin: 0 auto;
+}
+
+.photo--full .no-editor {
+    margin-top: 1rem;
+}
+
+.photo--full .wrapper--inner {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    max-width: 64rem;
+}
+
+.photo--full canvas {
+    padding: 5px;
+    position: relative;
+}
+
+.photo--full canvas,
+.photo--full img {
+    border: 1px solid var(--senary-grayscale);
+    border-radius: 5px;
+    display: block;
+    height: auto;
+    max-height: 100%;
+    margin: 0 auto;
+    max-width: 100%;
+    width: auto;
+}

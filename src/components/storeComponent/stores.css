@@ -1,0 +1,185 @@
+.wrapper--virtual-tour {
+    display: flex;
+    height: calc(100vh - 60px);
+    position: absolute;
+    overflow: hidden;
+    width: 100%;
+}
+
+.column__store-info,
+.column__video {
+    display: block;
+    flex-wrap: wrap;
+    height: 100%;
+    min-width: 25%;
+    overflow-x: hidden;
+}
+
+.column__store-info {
+    flex: 1 1 35%;
+}
+
+.column__video {
+    border-right: solid 1px var(--senary-grayscale);
+    overflow-y: auto;
+}
+
+.collapsed.column__video {
+    min-width: 0;
+}
+
+.react-resizable {
+    padding-right: 9px;
+    position: relative;
+}
+
+.react-resizable-handle {
+    background: #fff url('../../assets/handle.png') center center no-repeat;
+    border-top: solid 1px var(--senary-grayscale);
+    cursor: col-resize;
+    height: 100%;
+    padding: 0 3px 3px 0;
+    position: absolute;
+    right: 1px;
+    top: 0;
+    bottom: 0;
+    width: 8px;
+}
+
+.primary-nav {
+    background-color: var(--white);
+    max-height: 3.75rem;
+    left: 0;
+    position: sticky;
+    overflow: hidden;
+    top: 0;
+    z-index: 500;
+}
+
+.navigation__list {
+    align-content: center;
+    border-bottom: 1px solid var(--senary-grayscale);
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation__list li {
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.navigation__list a,
+.navigation__list span {
+    border-bottom: solid 2px transparent;
+    color: inherit;
+    padding: 0.75rem 0.75rem calc(0.75rem - 2px);
+    text-decoration: none;
+}
+
+.navigation__list .active {
+    border-color: var(--hover-color);
+}
+
+/* Window & List Control Items */
+
+.sharepoint-list__controls,
+.window-controls {
+    align-items: center;
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+}
+
+.sharepoint-list__controls {
+    justify-content: flex-end;
+    padding: 1.75rem 3rem;
+}
+
+.window-controls {
+    background-color: var(--white);
+    border-bottom: solid 1px var(--senary-grayscale);
+    box-shadow: 0 1px 0 0 var(--senary-grayscale);
+    padding: 0;
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+.window-control {
+    flex: 0 0 50px;
+}
+
+.window-control.document-name {
+    flex: 1;
+    line-height: 1;
+    overflow: hidden;
+    padding: 1rem 1.25rem;
+    text-overflow: ellipsis;
+    text-transform: uppercase;
+    white-space: nowrap;
+    width: calc(100% - 100px);
+}
+
+.sharepoint-list__control button,
+.window-control button {
+    align-items: center;
+    background: transparent;
+    border: none;
+    color: var(--primary-grayscale);
+    cursor: pointer;
+    display: flex;
+    line-height: 1;
+    outline: none;
+    text-transform: uppercase;
+    text-align: center;
+    width: auto;
+}
+
+.sharepoint-list__control button:hover,
+.window-control button:hover {
+    color: var(--hover-color)
+}
+
+.sharepoint-list__control button:hover svg,
+.window-control button:hover svg {
+    fill: var(--hover-color)
+}
+
+.window-control button {
+    padding: 1rem 1.25rem;
+    font-size: 0.875rem;
+}
+
+.button--expand-collapse button {
+    border-right: solid 1px var(--senary-grayscale);
+}
+
+.button--close-file button {
+    border-left: solid 1px var(--senary-grayscale);
+}
+
+.sharepoint-list__control .icon {
+    height: 20px;
+    width: 20px;
+}
+
+.sharepoint-list__control .icon svg {
+    height: 100%;
+    width: 100%;
+}
+
+.window-control .icon {
+    fill: var(--tertiary-grayscale);
+    height: 14px;
+    width: 14px;
+}
+
+.window-control .icon-close {
+    margin: 0 0.5rem;
+    max-height: 0.65rem;
+}

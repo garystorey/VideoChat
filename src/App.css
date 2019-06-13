@@ -1,0 +1,58 @@
+/* Overriding default Sharepoint styles */
+#contentBox {
+    margin-right: auto !important;
+    margin-left: auto !important;
+}
+
+#s4-titlerow {
+    display: none !important;
+    height: 0 !important;
+}
+
+/* Utility Classes */
+.u-left {
+    float: left;
+}
+
+.u-right {
+    float: right;
+}
+
+/* Start global app styles */
+.wrapper {
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+.wrapper--inner {
+    padding: 0 30px;
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 100%;
+}
+
+.inner-padding {
+    padding: 0 24px;
+}
+
+.icon {
+    overflow: hidden;
+}
+
+.icon svg {
+    fill: var(--quarternary-grayscale);
+    height: 100%;
+    width: auto;
+}
+
+.icon svg,
+[class*="__trigger"] {
+    transition: all 90ms ease-in;
+}
+
+[class*="__trigger"]:hover,
+[class*="__trigger"]:hover svg {
+    color: var(--hover-color);
+    fill: var(--hover-color);
+}

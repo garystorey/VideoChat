@@ -1,0 +1,28 @@
+{"d": {
+  "__metadata": {
+    "id": "https://vsv.corp.talbots.com/_api/Web/GetUserById(17)",
+    "uri": "https://vsv.corp.talbots.com/_api/Web/GetUserById(17)",
+    "type": "SP.User"
+  },
+  "Groups": {
+    "__deferred": {
+      "uri": "https://vsv.corp.talbots.com/_api/Web/GetUserById(17)/Groups"
+    }
+  },
+  "Id": 17,
+  "IsHiddenInUI": false,
+  "LoginName": "i:0#.w|talbots\\ss6sxr",
+  "Title": "Sean Reid",
+  "PrincipalType": 1,
+  "Email": "",
+  "IsShareByEmailGuestUser": false,
+  "IsSiteAdmin": true,
+  "UserId": {
+    "__metadata": {
+      "type": "SP.UserIdInfo"
+    },
+    "NameId": "s-1-5-21-73586283-1606980848-682003330-120271",
+    "NameIdIssuer": "urn:office:idp:activedirectory"
+  }
+}
+}

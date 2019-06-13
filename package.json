@@ -1,0 +1,39 @@
+{
+  "name": "intranetpro-rooms",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "copy-to-clipboard": "^3.0.8",
+    "eslint-plugin-import": "^2.10.0",
+    "lodash": "^4.17.5",
+    "moment": "^2.21.0",
+    "moment-timezone": "^0.5.14",
+    "node-fetch": "^2.1.2",
+    "opentok-react": "^0.7.0",
+    "react": "^16.3.0",
+    "react-alert": "^3.4.0",
+    "react-avatar-editor": "^11.0.6",
+    "react-dom": "^16.3.0",
+    "react-draggable": "^3.0.5",
+    "react-full-screen": "^0.2.2",
+    "react-measure": "^2.0.2",
+    "react-moment": "^0.7.0",
+    "react-resizable": "^1.7.5",
+    "react-router-dom": "^4.2.2",
+    "react-rte": "^0.16.1",
+    "react-scripts": "1.1.1",
+    "react-transition-group": "^2.3.0",
+    "worker-loader": "^1.1.1",
+    "xml2json": "^0.11.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "start-https": "set HTTPS=true&&set NODE_ENV=production&&react-scripts start",
+    "build": "react-scripts build",
+    "postbuild": "node ./src/utils/rename.js",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "homepage": "https://vsv.corp.talbots.com/Style%20Library/",
+  "devDependencies": {}
+}

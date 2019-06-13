@@ -1,0 +1,55 @@
+.publisher {
+    display: flex;
+    flex: 1 1 20%;
+}
+
+.publisher__wrapper {
+    bottom: 16px;
+    display: block;
+    min-height: 150px;
+    max-width: 267px;
+    min-width: 267px;
+    position: absolute;
+    right: 16px;
+    z-index: 15;
+}
+
+.publisher__wrapper.collapsed .publisher__camera {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+.publisher__screen {
+    display: none;
+    height: 0;
+    width: 0;
+}
+
+.publisher__camera,
+.publisher .OT_publisher {
+    background-color: #616161;
+    border-radius: 5px;
+}
+
+.publisher .OT_publisher {
+    align-self: center;
+    bottom: 0;
+    display: flex;
+    flex: 0 0 auto;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 500;
+}
+
+.publisher-controls {
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+

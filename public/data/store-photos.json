@@ -1,0 +1,1293 @@
+{"d": {
+  "results": [
+    {
+      "__metadata": {
+        "id": "0086f00d-1134-4c8e-8b92-1a785bc47198",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{03329776-1EE2-4A55-A597-EBFB136695CC},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{03329776-1EE2-4A55-A597-EBFB136695CC},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "1084055",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "White Shirts.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/White Shirts.jpg",
+        "TimeCreated": "2018-03-14T14:04:13Z",
+        "TimeLastModified": "2018-03-25T16:40:31Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "03329776-1ee2-4a55-a597-ebfb136695cc"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(1)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 1,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 5184,
+      "ImageHeight": 3456,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 1,
+      "Created": "2018-03-14T14:04:12Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:31Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "3d623c42-86a4-40be-9683-ff331906f978"
+    },
+    {
+      "__metadata": {
+        "id": "cfb6e6b2-5fef-42d7-9838-392341699d3c",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{F5A5CB67-DE5D-41CD-9A49-ADF8AD4D21B8},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{F5A5CB67-DE5D-41CD-9A49-ADF8AD4D21B8},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "2941686",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Store Window.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Store Window.jpg",
+        "TimeCreated": "2018-03-14T14:04:14Z",
+        "TimeLastModified": "2018-03-25T16:40:33Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "f5a5cb67-de5d-41cd-9a49-adf8ad4d21b8"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(2)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 2,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 5184,
+      "ImageHeight": 3888,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 2,
+      "Created": "2018-03-14T14:04:13Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:33Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "251783cb-892a-4799-a746-9d9143c15c0b"
+    },
+    {
+      "__metadata": {
+        "id": "fcc056f4-d008-4d28-96bf-60d1b2eaa3e0",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{436B81F8-91D2-4F30-8C73-544EF0FD6EBA},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{436B81F8-91D2-4F30-8C73-544EF0FD6EBA},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "2449336",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Windy Day.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Windy Day.jpg",
+        "TimeCreated": "2018-03-14T14:04:15Z",
+        "TimeLastModified": "2018-03-25T16:40:36Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "436b81f8-91d2-4f30-8c73-544ef0fd6eba"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(3)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 3,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 3525,
+      "ImageHeight": 5287,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 3,
+      "Created": "2018-03-14T14:04:14Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:36Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "566f2709-985c-49c0-beea-21131ff0738e"
+    },
+    {
+      "__metadata": {
+        "id": "3717ccac-274d-41bd-88e0-0060a46fcc3c",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{8A28AFE7-94E5-4A0B-80ED-8B8AC3030C44},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{8A28AFE7-94E5-4A0B-80ED-8B8AC3030C44},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "8070475",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "On the Road.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/On the Road.jpg",
+        "TimeCreated": "2018-03-14T14:04:18Z",
+        "TimeLastModified": "2018-03-25T16:40:40Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "8a28afe7-94e5-4a0b-80ed-8b8ac3030c44"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(4)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 4,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 4000,
+      "ImageHeight": 6000,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 4,
+      "Created": "2018-03-14T14:04:16Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:40Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "89420e85-35ef-43ab-9c88-1be5f0f8892e"
+    },
+    {
+      "__metadata": {
+        "id": "995a5f89-aab0-4499-836b-16e9b47c0ed3",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{B1A21461-0021-41B0-92C4-D4C7E5A04887},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{B1A21461-0021-41B0-92C4-D4C7E5A04887},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "2232736",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Look Through Hangers.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Look Through Hangers.jpg",
+        "TimeCreated": "2018-03-14T14:04:19Z",
+        "TimeLastModified": "2018-03-25T16:40:46Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "b1a21461-0021-41b0-92c4-d4c7e5a04887"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(5)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 5,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 5297,
+      "ImageHeight": 3531,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 5,
+      "Created": "2018-03-14T14:04:18Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:46Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "46331c52-43b0-4f47-95ee-63f138324fba"
+    },
+    {
+      "__metadata": {
+        "id": "7f9306f3-7417-4eeb-b38c-834f0018e9bb",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{304F0716-DABF-4A66-8248-9A2E23ACDDB3},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{304F0716-DABF-4A66-8248-9A2E23ACDDB3},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "2018635",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Colorful Tops.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Colorful Tops.jpg",
+        "TimeCreated": "2018-03-14T14:04:20Z",
+        "TimeLastModified": "2018-03-25T16:40:51Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "304f0716-dabf-4a66-8248-9a2e23acddb3"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(6)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 6,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 2962,
+      "ImageHeight": 3949,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 6,
+      "Created": "2018-03-14T14:04:19Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:40:51Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "bbd0a435-516f-41e2-9eff-d2fdc2211c1e"
+    },
+    {
+      "__metadata": {
+        "id": "c129a51d-1ba0-4041-8b22-86441a5cffb5",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{FFC5E6A5-A727-4B50-A922-9D7AFE2E3FF3},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{FFC5E6A5-A727-4B50-A922-9D7AFE2E3FF3},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "1722229",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Modest Peach Top.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Modest Peach Top.jpg",
+        "TimeCreated": "2018-03-14T14:04:21Z",
+        "TimeLastModified": "2018-03-25T16:41:00Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "ffc5e6a5-a727-4b50-a922-9d7afe2e3ff3"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(7)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 7,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 5004,
+      "ImageHeight": 3456,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 7,
+      "Created": "2018-03-14T14:04:20Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:41:00Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "1509c6cf-d300-409d-a504-23ba6e79d039"
+    },
+    {
+      "__metadata": {
+        "id": "ff7e2853-a952-4212-9d4e-08ec80c02efc",
+        "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)",
+        "etag": "\"2\"",
+        "type": "SP.Data.PublishingImagesItem"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/RoleAssignments"
+        }
+      },
+      "AttachmentFiles": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/AttachmentFiles"
+        }
+      },
+      "ContentType": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/ContentType"
+        }
+      },
+      "GetDlpPolicyTip": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/GetDlpPolicyTip"
+        }
+      },
+      "FieldValuesAsHtml": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/FieldValuesAsHtml"
+        }
+      },
+      "FieldValuesAsText": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/FieldValuesAsText"
+        }
+      },
+      "FieldValuesForEdit": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/FieldValuesForEdit"
+        }
+      },
+      "File": {
+        "__metadata": {
+          "id": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File",
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File",
+          "type": "SP.File"
+        },
+        "Author": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/Author"
+          }
+        },
+        "CheckedOutByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/CheckedOutByUser"
+          }
+        },
+        "EffectiveInformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/EffectiveInformationRightsManagementSettings"
+          }
+        },
+        "InformationRightsManagementSettings": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/InformationRightsManagementSettings"
+          }
+        },
+        "ListItemAllFields": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/ListItemAllFields"
+          }
+        },
+        "LockedByUser": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/LockedByUser"
+          }
+        },
+        "ModifiedBy": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/ModifiedBy"
+          }
+        },
+        "Properties": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/Properties"
+          }
+        },
+        "Versions": {
+          "__deferred": {
+            "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/File/Versions"
+          }
+        },
+        "CheckInComment": "",
+        "CheckOutType": 2,
+        "ContentTag": "{FE547651-F9EF-4F95-A640-4A63DAD2BFC0},4,3",
+        "CustomizedPageStatus": 0,
+        "ETag": "\"{FE547651-F9EF-4F95-A640-4A63DAD2BFC0},4\"",
+        "Exists": true,
+        "IrmEnabled": false,
+        "Length": "3238219",
+        "Level": 1,
+        "LinkingUrl": "",
+        "MajorVersion": 2,
+        "MinorVersion": 0,
+        "Name": "Red Red Red.jpg",
+        "ServerRelativeUrl": "/rooms/PublishingImages/Red Red Red.jpg",
+        "TimeCreated": "2018-03-14T14:04:22Z",
+        "TimeLastModified": "2018-03-25T16:41:09Z",
+        "Title": null,
+        "UIVersion": 1024,
+        "UIVersionLabel": "2.0",
+        "UniqueId": "fe547651-f9ef-4f95-a640-4a63dad2bfc0"
+      },
+      "Folder": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/Folder"
+        }
+      },
+      "ParentList": {
+        "__deferred": {
+          "uri": "https://vsv.talbots.com/rooms/_api/Web/Lists(guid'5ab83c2b-6e26-4ac8-a29f-89ce1c723048')/Items(8)/ParentList"
+        }
+      },
+      "FileSystemObjectType": 0,
+      "Id": 8,
+      "ContentTypeId": "0x0101009148F5A04DDD49CBA7127AADA5FB792B00AADE34325A8B49CDA8BB4DB53328F2140082A21EF6CC81C0418C0CE6E1E295AC7F",
+      "OData__Author": null,
+      "Title": null,
+      "ImageWidth": 6016,
+      "ImageHeight": 4000,
+      "ImageCreateDate": null,
+      "OData__Comments": null,
+      "Keywords": null,
+      "wic_System_Copyright": null,
+      "AlternateThumbnailUrl": null,
+      "MediaLengthInSeconds": null,
+      "VideoWidthInPixels": null,
+      "VideoHeightInPixels": null,
+      "VideoRenditionLabel": null,
+      "VideoRenditionBitRate": null,
+      "VideoSetDescription": null,
+      "VideoSetOwnerId": null,
+      "VideoSetShowDownloadLink": null,
+      "VideoSetShowEmbedLink": null,
+      "PeopleInMediaId": null,
+      "ID": 8,
+      "Created": "2018-03-14T14:04:21Z",
+      "AuthorId": 1,
+      "Modified": "2018-03-25T16:41:09Z",
+      "EditorId": 1,
+      "OData__CopySource": null,
+      "CheckoutUserId": null,
+      "OData__UIVersionString": "2.0",
+      "GUID": "aa3f611b-9090-47d2-9dba-6d84b2de7059"
+    }
+  ]
+}
+}

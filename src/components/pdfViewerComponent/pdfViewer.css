@@ -1,0 +1,11 @@
+.wrapper--pdf {
+    display: block;
+    height: 100%;
+    position: relative;
+    width: 100%;
+}
+
+.react-pdf__Wrapper {
+    height: 100%;
+    overflow: hidden;
+}

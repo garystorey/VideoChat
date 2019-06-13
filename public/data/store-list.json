@@ -1,0 +1,4604 @@
+{"d": {
+  "results": [
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/vsv-template/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/vsv-template/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-03-20T16:14:21",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;464a177b-55f5-4022-9ef9-ab47835f4030;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/_catalogs/masterpage/vsv.master",
+      "Description": "Talbots Virtual Store Visit\r\n",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "464a177b-55f5-4022-9ef9-ab47835f4030",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-16T21:59:53Z",
+      "MasterUrl": "/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/vsv-template",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "[Store VSV Template]",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/vsv-template",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/1032/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/1032/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1032/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:49:29",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;44803bcd-2d3d-41e9-806e-852119888080;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/1032/_catalogs/masterpage/seattle.master",
+      "Description": "WILMINGTON WOMAN",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "44803bcd-2d3d-41e9-806e-852119888080",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:49:42Z",
+      "MasterUrl": "/1032/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/1032",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "1032",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/1032",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/1102/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/1102/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1102/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:49:42",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;620d5e36-e97c-442a-ad9f-69d5ff84b3c2;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/1102/_catalogs/masterpage/seattle.master",
+      "Description": "SALISBURY",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "620d5e36-e97c-442a-ad9f-69d5ff84b3c2",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:49:55Z",
+      "MasterUrl": "/1102/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/1102",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "1102",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/1102",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/1226/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/1226/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/1226/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:49:54",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;364bfb97-2330-45a1-92da-9a0418f14b1b;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/1226/_catalogs/masterpage/seattle.master",
+      "Description": "BETHESDA",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "364bfb97-2330-45a1-92da-9a0418f14b1b",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:50:09Z",
+      "MasterUrl": "/1226/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/1226",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "1226",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/1226",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/131/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/131/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/131/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:24:25",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;3969efb9-4074-4214-bdb1-5d2113a22efc;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/131/_catalogs/masterpage/seattle.master",
+      "Description": "ANNAPOLIS/PET",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "3969efb9-4074-4214-bdb1-5d2113a22efc",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:24:34Z",
+      "MasterUrl": "/131/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/131",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "131",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/131",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/19/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/19/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/19/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T16:46:23",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;fd99d5c8-2189-4307-85d8-35c39fe8f11d;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/19/_catalogs/masterpage/seattle.master",
+      "Description": "WILMINGTON",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "fd99d5c8-2189-4307-85d8-35c39fe8f11d",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T16:46:44Z",
+      "MasterUrl": "/19/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/19",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "19",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/19",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/20/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/20/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/20/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:00:47",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;05f3bcc8-301d-494c-b6eb-35f657ac8f04;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/20/_catalogs/masterpage/seattle.master",
+      "Description": "CHEVY CHASE PAV",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "05f3bcc8-301d-494c-b6eb-35f657ac8f04",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:01:05Z",
+      "MasterUrl": "/20/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/20",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "20",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/20",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/21/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/21/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/21/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:01:55",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;bc5cbf96-ec81-4be4-9c88-3933a3929bbd;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/21/_catalogs/masterpage/seattle.master",
+      "Description": "BALTIMORE",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "bc5cbf96-ec81-4be4-9c88-3933a3929bbd",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:02:07Z",
+      "MasterUrl": "/21/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/21",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "21",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/21",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/233/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/233/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/233/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:50:53",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;1bbeb404-9740-4c5d-b264-7ed803b54902;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/233/_catalogs/masterpage/seattle.master",
+      "Description": "MOBILE",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "1bbeb404-9740-4c5d-b264-7ed803b54902",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:51:05Z",
+      "MasterUrl": "/233/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/233",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "233",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/233",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/248/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/248/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/248/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:51:06",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;b19f6003-31d4-468a-bc53-5f6ada321218;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/248/_catalogs/masterpage/seattle.master",
+      "Description": "HUNTSVILLE",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "b19f6003-31d4-468a-bc53-5f6ada321218",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:51:17Z",
+      "MasterUrl": "/248/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/248",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "248",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/248",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/260/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/260/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/260/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:51:17",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;fce01a86-8ca6-41bd-b049-49ed848f44b2;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/260/_catalogs/masterpage/seattle.master",
+      "Description": "MACON",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "fce01a86-8ca6-41bd-b049-49ed848f44b2",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:51:29Z",
+      "MasterUrl": "/260/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/260",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "260",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/260",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/292/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/292/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/292/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:25:23",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;4ad79422-10d5-44ce-8d21-c21d50276d78;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/292/_catalogs/masterpage/seattle.master",
+      "Description": "COLUMBIA",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "4ad79422-10d5-44ce-8d21-c21d50276d78",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:25:34Z",
+      "MasterUrl": "/292/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/292",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "292",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/292",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/299/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/299/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/299/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:51:32",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;4f95defb-298b-4b60-994c-9092340f6004;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/299/_catalogs/masterpage/seattle.master",
+      "Description": "COLUMBUS",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "4f95defb-298b-4b60-994c-9092340f6004",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:51:43Z",
+      "MasterUrl": "/299/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/299",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "299",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/299",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/315/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/315/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/315/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:51:49",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;9f3a7228-700e-4bf6-9e65-d1437f922a40;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/315/_catalogs/masterpage/seattle.master",
+      "Description": "PENSACOLA",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "9f3a7228-700e-4bf6-9e65-d1437f922a40",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:52:00Z",
+      "MasterUrl": "/315/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/315",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "315",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/315",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/387/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/387/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/387/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:26:59",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;6848b3f6-b404-495b-b439-82357abaad74;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/387/_catalogs/masterpage/seattle.master",
+      "Description": "BEL AIR",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "6848b3f6-b404-495b-b439-82357abaad74",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:27:12Z",
+      "MasterUrl": "/387/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/387",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "387",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/387",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/433/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/433/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/433/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:40:19",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;92206da4-9ae4-46ad-b064-61464d1a0b93;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/433/_catalogs/masterpage/seattle.master",
+      "Description": "FREDERICK",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "92206da4-9ae4-46ad-b064-61464d1a0b93",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:40:31Z",
+      "MasterUrl": "/433/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/433",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "433",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/433",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/468/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/468/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/468/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:40:54",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;e8f3a7fb-f2e6-4958-afb8-518fc1cb3844;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/468/_catalogs/masterpage/seattle.master",
+      "Description": "EASTON",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "e8f3a7fb-f2e6-4958-afb8-518fc1cb3844",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:41:07Z",
+      "MasterUrl": "/468/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/468",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "468",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/468",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/492/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/492/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/492/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:49:17",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;68e9d6c9-48d7-4940-ba07-7db60b61feae;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/492/_catalogs/masterpage/seattle.master",
+      "Description": "DOVER",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "68e9d6c9-48d7-4940-ba07-7db60b61feae",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:49:32Z",
+      "MasterUrl": "/492/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/492",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "492",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/492",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/85/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/85/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/85/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-04-17T18:23:10",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;514b8ac8-80fd-4f67-ade6-e647fa761185;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/85/_catalogs/masterpage/seattle.master",
+      "Description": "TOWSON",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "514b8ac8-80fd-4f67-ade6-e647fa761185",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-17T18:23:21Z",
+      "MasterUrl": "/85/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/85",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "85",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/85",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/doc/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/doc/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/doc/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-03-25T20:09:48",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;20992fd7-ac01-4dd2-8bef-5ad7ff90cbdf;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/_catalogs/masterpage/vsv.master",
+      "Description": "",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "20992fd7-ac01-4dd2-8bef-5ad7ff90cbdf",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-03-25T20:16:36Z",
+      "MasterUrl": "/_catalogs/masterpage/seattle.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/doc",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "doc",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/doc",
+      "WebTemplate": "CMSPUBLISHING"
+    },
+    {
+      "__metadata": {
+        "id": "https://vsv.corp.talbots.com/rooms/_api/Web",
+        "uri": "https://vsv.corp.talbots.com/rooms/_api/Web",
+        "type": "SP.Web"
+      },
+      "FirstUniqueAncestorSecurableObject": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/FirstUniqueAncestorSecurableObject"
+        }
+      },
+      "RoleAssignments": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/RoleAssignments"
+        }
+      },
+      "AllProperties": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AllProperties"
+        }
+      },
+      "AppTiles": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AppTiles"
+        }
+      },
+      "AssociatedMemberGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AssociatedMemberGroup"
+        }
+      },
+      "AssociatedOwnerGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AssociatedOwnerGroup"
+        }
+      },
+      "AssociatedVisitorGroup": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AssociatedVisitorGroup"
+        }
+      },
+      "AvailableContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AvailableContentTypes"
+        }
+      },
+      "AvailableFields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/AvailableFields"
+        }
+      },
+      "ContentTypes": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/ContentTypes"
+        }
+      },
+      "CurrentUser": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/CurrentUser"
+        }
+      },
+      "DataLeakagePreventionStatusInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/DataLeakagePreventionStatusInfo"
+        }
+      },
+      "DescriptionResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/DescriptionResource"
+        }
+      },
+      "EventReceivers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/EventReceivers"
+        }
+      },
+      "Features": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Features"
+        }
+      },
+      "Fields": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Fields"
+        }
+      },
+      "Folders": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Folders"
+        }
+      },
+      "Lists": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Lists"
+        }
+      },
+      "ListTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/ListTemplates"
+        }
+      },
+      "Navigation": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Navigation"
+        }
+      },
+      "ParentWeb": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/ParentWeb"
+        }
+      },
+      "PushNotificationSubscribers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/PushNotificationSubscribers"
+        }
+      },
+      "RecycleBin": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/RecycleBin"
+        }
+      },
+      "RegionalSettings": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/RegionalSettings"
+        }
+      },
+      "RoleDefinitions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/RoleDefinitions"
+        }
+      },
+      "RootFolder": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/RootFolder"
+        }
+      },
+      "SiteGroups": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/SiteGroups"
+        }
+      },
+      "SiteUserInfoList": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/SiteUserInfoList"
+        }
+      },
+      "SiteUsers": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/SiteUsers"
+        }
+      },
+      "ThemeInfo": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/ThemeInfo"
+        }
+      },
+      "TitleResource": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/TitleResource"
+        }
+      },
+      "UserCustomActions": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/UserCustomActions"
+        }
+      },
+      "Webs": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/Webs"
+        }
+      },
+      "WebInfos": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/WebInfos"
+        }
+      },
+      "WorkflowAssociations": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/WorkflowAssociations"
+        }
+      },
+      "WorkflowTemplates": {
+        "__deferred": {
+          "uri": "https://vsv.corp.talbots.com/rooms/_api/Web/WorkflowTemplates"
+        }
+      },
+      "AllowRssFeeds": false,
+      "AlternateCssUrl": "",
+      "AppInstanceId": "00000000-0000-0000-0000-000000000000",
+      "Configuration": -1,
+      "Created": "2018-03-07T20:12:05",
+      "CurrentChangeToken": {
+        "__metadata": {
+          "type": "SP.ChangeToken"
+        },
+        "StringValue": "1;2;9268c518-b220-40dc-904e-ef8f0d0bfdad;636596525060030000;24532"
+      },
+      "CustomMasterUrl": "/_catalogs/masterpage/vsv.master",
+      "Description": "",
+      "DocumentLibraryCalloutOfficeWebAppPreviewersDisabled": false,
+      "EnableMinimalDownload": false,
+      "Id": "9268c518-b220-40dc-904e-ef8f0d0bfdad",
+      "IsMultilingual": false,
+      "Language": 1033,
+      "LastItemModifiedDate": "2018-04-18T12:48:26Z",
+      "MasterUrl": "/_catalogs/masterpage/oslo.master",
+      "OverwriteTranslationsOnChange": false,
+      "QuickLaunchEnabled": true,
+      "RecycleBinEnabled": true,
+      "ServerRelativeUrl": "/rooms",
+      "SiteLogoUrl": null,
+      "SyndicationEnabled": true,
+      "Title": "rooms",
+      "TreeViewEnabled": false,
+      "UIVersion": 15,
+      "UIVersionConfigurationEnabled": false,
+      "Url": "https://vsv.corp.talbots.com/rooms",
+      "WebTemplate": "CMSPUBLISHING"
+    }
+  ]
+}
+}

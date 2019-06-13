@@ -1,0 +1,166 @@
+.lobby {
+    text-align: center;
+}
+
+.greeting {
+    margin: 3rem auto 2.5rem;
+    text-transform: capitalize;
+}
+
+.lobby__room-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.lobby__room {
+    border: 1px solid var(--senary-grayscale);
+    border-radius: 5px;
+    background-color: var(--white);
+    box-shadow: 0 1px 3px 0 rgba(0,0,0,0.1);
+    flex: 0 0 calc(100% - 1.5rem);
+    flex-wrap: wrap;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.1;
+    margin: 0 0.75rem 1.5rem;
+    min-height: 15.75rem;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+}
+
+.room-info__trigger {
+    cursor: pointer;
+    height: 1.1rem;
+    position: absolute;
+    right: 11px;
+    top: 11px;
+    width: 1.1rem;
+}
+
+.icon__more-info {
+    fill: var(--quinary-grayscale);
+    height: 100%;
+    width: 100%;
+}
+
+.icon__more-info.close {
+    fill: var(--hover-color);
+}
+
+.lobby__room-link {
+    color: var(--primary-grayscale);
+    display: block;
+    height: 100%;
+    padding: 30px 30px 25px;
+    text-decoration: none;
+}
+
+.lobby__room-link > * {
+    display: inline-block;
+    width: 100%;
+}
+
+.lobby__room-link h3 {
+    font-size: 1rem;
+    line-height: 1;
+}
+
+.lobby__room .room-name {
+    font-size: 1.375rem;
+    line-height: 1;
+    margin-top: 0;
+}
+
+.store-hours li,
+.lobby__room-link p {
+    color: var(--tertiary-grayscale);
+    font-size: 0.875rem;
+    line-height: 1.5;
+    margin: 0;
+}
+
+.lobby__room-link:hover {
+   color: var(--primary-grayscale);
+}
+
+.lobby__room:hover {
+    border-color: var(--hover-color);
+    box-shadow: 0 1px 3px 0 var(--hover-color);
+}
+
+/* Talbots specific classes */
+.store-name {
+    font-size: 1.375rem;
+    font-weight: normal;
+    line-height: 1.2;
+    margin: 0 0 1.6rem;
+}
+
+.manager {
+    display: block;
+    width: 100%;
+}
+
+.manager p {
+    font-size: 0.625rem;
+    text-transform: uppercase;
+}
+
+.manager .manager-name {
+    margin: 0;
+}
+
+[class^="store-details__"] {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.5rem;
+}
+
+[class^="store-details__"] h3 {
+    flex: 0 0 100px;
+    margin: 0;
+}
+
+.store-address,
+.store-hours {
+    flex: 0 0 100%;
+}
+
+.store-hours {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.store-hours li {
+    align-items: flex-start;
+    display: flex;
+    width: 100%;
+}
+
+
+
+@media screen and (min-width: 40rem) {
+    .lobby__room {
+        flex: 1 0 calc(50% - 1.5rem);
+    }
+}
+
+@media screen and (min-width: 56rem) {
+    .store-address,
+    .store-hours {
+        flex: 0 0 70%;
+    }
+}
+
+@media screen and (min-width: 70rem) {
+    .lobby__room {
+        flex: 0 0 calc(33% - 1.5rem);
+    }
+}

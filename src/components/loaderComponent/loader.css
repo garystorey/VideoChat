@@ -1,0 +1,50 @@
+.loader {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.load {
+    border: 2px solid #e0e0e0;
+    border-radius: 50%;
+    height: 28px;
+    overflow: hidden;
+    width: 28px;
+}
+
+.load-spin {
+    border-top-color: var(--primary);
+    -webkit-animation:spin 1s infinite linear;
+    animation:spin 1s infinite linear;
+}
+
+.placeholder--fetch {
+    color: var(--primary);
+    display: block;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+.placeholder--fetch .load {
+    height: 50px;
+    width: 50px;
+}
+
+.placeholder--fetch p {
+    color: var(--primary-grayscale);
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+@keyframes spin{
+    0%{
+        -webkit-transform:rotate(0deg);
+        transform:rotate(0deg);
+    }
+
+    100%{
+        -webkit-transform:rotate(360deg);
+        transform:rotate(360deg);
+    }
+}

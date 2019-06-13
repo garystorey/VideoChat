@@ -1,0 +1,97 @@
+.image-editor {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+.image-editor .loader {
+    min-height: 200px
+}
+
+.image-editor .load {
+    height: 72px;
+    width: 72px;
+}
+
+.image-editor__tools {
+    align-items: center;
+    border-bottom: solid 1px var(--senary-grayscale);
+    display: flex;
+    margin: 0 auto 1rem;
+    padding: 0;
+    width: 100%;
+}
+
+.editor-toolbar {
+    display: flex;
+    flex: 1 0 50%;
+    justify-content: flex-end;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.editor-toolbar .divider {
+    background-color: var(--senary-grayscale);
+    margin: 0 3px;
+    width: 1px;
+}
+
+.editor-toolbar button {
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    outline: none;
+    padding: 12px 15px;
+}
+
+.editor-toolbar button svg {
+    fill: var(--quarternary-grayscale);
+    height: 24px;
+    max-width: 28px;
+    transition: fill 100ms ease;
+    width: auto;
+}
+
+.editor__rotate--left,
+.editor__rotate--right {
+}
+
+.editor__rotate svg:hover {
+    fill: var(--tertiary-grayscale)
+}
+
+.editor__delete svg:hover {
+    fill: var(--tertiary-hover);
+}
+
+.editor__save.changed svg,
+.editor__save svg:hover {
+    fill: var(--secondary-hover);
+}
+
+/*
+.editor__save.changed svg {
+    border-radius: 2px;
+    box-shadow: 0 0 0 rgba(68, 147, 86, 0.4);
+    animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+    0% {
+        box-shadow: 0 0 0 0 rgba(68, 147, 86, 0.4);
+    }
+    60% {
+        box-shadow: 0 0 0 7px rgba(68, 147, 86, 0);
+    }
+    100% {
+        box-shadow: 0 0 0 0 rgba(68, 147, 86, 0);
+    }
+}
+*/
